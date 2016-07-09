@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TARA LIST VIEW PRACTICE</string>
+    <string name="member_name_1">Soyeon</string>
+    <string name="member_name_2">Jiyeon</string>
+    <string name="member_name_3">Qri</string>
+    <string name="member_name_4">Boram</string>
+    <string name="member_name_5">Hyomin</string>
+    <string name="member_name_6">EunJeong</string>
+    <string name="select_toast">Is selected!</string>
+</resources>

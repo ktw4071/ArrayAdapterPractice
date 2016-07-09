@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">티아라 리스트뷰 연습</string>
+    <string name="member_name_1">소연</string>
+    <string name="member_name_2">지연</string>
+    <string name="member_name_3">큐리</string>
+    <string name="member_name_4">보람</string>
+    <string name="member_name_5">효민</string>
+    <string name="member_name_6">은정</string>
+    <string name="select_toast">을 선택하였습니다</string>
+</resources>
