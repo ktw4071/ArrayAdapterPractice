@@ -8,7 +8,6 @@ import android.graphics.drawable.Drawable;
 public class TARAValueObject {
     public String memberName;
     public Drawable memberImage;
-    public Drawable LikeButton;
     public int count;
 
     public TARAValueObject(String memberName, Drawable memberImage) {
